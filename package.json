@@ -1,0 +1,12 @@
+{
+  "name": "atom-config-integer-zero-test-case",
+  "main": "./lib/atom-config-integer-zero-test-case",
+  "version": "0.0.0",
+  "description": "A test case",
+  "repository": "https://github.com/methodgrab/atom-config-integer-zero-test-case",
+  "license": "ISC",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
